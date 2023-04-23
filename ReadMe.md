@@ -19,8 +19,8 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=VishalK2267)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-## ![image](https://user-images.githubusercontent.com/116670999/233841178-41f968ab-1371-4a3c-8dd9-9196a13939b8.png) Latest Blog
-[![](https://medium.com/@vishalkiitbhu/the-best-ai-powered-tools-that-will-increase-your-productivity-and-save-you-hours-of-your-time-db1bc6aef868)]
+## <img src="icons8-medium-64.png" span="Latest Blog">
+<a href="https://medium.com/@vishalkiitbhu/the-best-ai-powered-tools-that-will-increase-your-productivity-and-save-you-hours-of-your-time-db1bc6aef868"></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
