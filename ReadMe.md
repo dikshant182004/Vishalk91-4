@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://media.licdn.com/dms/image/D5616AQHVw3kHrX-JrQ/profile-displaybackgroundimage-shrink_350_1400/0/1680956357745?e=1687996800&v=beta&t=SzEucdYPMOWp4ZBoZiDMmC7f1G3WciKcaWGu_G5M7Jk">
+<img src="https://media.licdn.com/dms/image/D5616AQHVw3kHrX-JrQ/profile-displaybackgroundimage-shrink_350_1400/0/1680956357745?e=1687996800&v=beta&t=SzEucdYPMOWp4ZBoZiDMmC7f1G3WciKcaWGu_G5M7Jk" styles="width:600px">
 <🤝🏻Hello Everyone><br>#📛I'm Vishal#<br>@🎓Freshman at IIT (BHU) Varanasi<br>/* 📔I am currently working on Different Productivity <br>and Research Based Websites */<br>[{( 🗃️Ask me About Maths and Computation )}]<br>!! 🥇I like to be the Best in What I do !!<br>
 
 
