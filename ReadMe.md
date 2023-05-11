@@ -13,9 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vishalk91-4&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalk91-4&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 WakaTime Stats:
-[![Vishalk91-4's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vishalk91-4)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vishalk91-4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
