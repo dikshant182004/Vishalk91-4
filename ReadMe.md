@@ -16,8 +16,6 @@
 
 [![Vishalk91-4's GitHub | Topics Over Time](https://stats.quine.sh/Vishalk91-4/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Vishalk91-4)
 
-![](https://github-readme-stats.vercel.app/api?username=Vishalk91-4&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vishalk91-4&theme=shades-of-purple&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalk91-4&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
