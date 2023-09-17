@@ -1,5 +1,9 @@
 # Hi, I'm Vishal :wave:
 
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Vishal 👋 I'm a 🚀 Web developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
 # 💫 About Me:
 <img src="./1680956357745.jpg" styles="width:600px">
 <🤝🏻Hello Everyone><br>#📛I'm Vishal#<br>@🎓Sophomore at IIT (BHU) Varanasi<br>/* 📔I am currently working on Different Productivity <br>and Research Based Websites */<br>[{( 🗃️Ask me About Maths and Computation )}]<br>!! 🥇I like to be the Best in What I do !!<br>
