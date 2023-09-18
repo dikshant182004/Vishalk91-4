@@ -1,9 +1,5 @@
 # Hi, I'm Vishal :wave:
 
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Vishal 👋 I'm a 🚀 Web developer 🚀 I ❤️ Happy Hardcore ❤️">
-</p>
-
 # 💫 About Me:
 <img src="./1680956357745.jpg" styles="width:600px">
 <🤝🏻Hello Everyone><br>#📛I'm Vishal#<br>@🎓Sophomore at IIT (BHU) Varanasi<br>/* 📔I am currently working on Different Productivity <br>and Research Based Websites */<br>[{( 🗃️Ask me About Maths and Computation )}]<br>!! 🥇I like to be the Best in What I do !!<br>
@@ -14,19 +10,7 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-## Life
 
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
-
-:shipit: CS + REU Fellow @ [**University of Rochester**][ur]  
-:shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
-:shipit: Android @ [**Taperk**][taperk]  
-:shipit: Full-stack @ [**RocLab**][roclab]  
-:shipit: Founder @ [**Abyss Inc.**][abyss]  
-:shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
-:shipit: Open-source enthusiast year-round (3400+ contributions)
-
-[42tm]: https://github.com/42tm
 [abyss]: https://github.com/abyss-inc
 [ur]: https://rochester.edu
 [siggraph]: https://siggraph.org
@@ -34,8 +18,6 @@
 [roclab]: https://roclab.io
 
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
@@ -46,21 +28,14 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Vishalk91-4">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Korada Vishal" /></a>
-</p>
+
 
 <p align="center">
   <a href="https://stars.github.com/profiles/Vishalk91-4/">
     <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
 </p>
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishalk_iitbhu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-k-2865b6254) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@vishalkiitbhu) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Vishalk) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20806754) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VishalK2267) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Vishalk2267) 
