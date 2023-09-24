@@ -75,6 +75,10 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
 <p align="center">
     <b>Looking for a software engineering intern?
         <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
