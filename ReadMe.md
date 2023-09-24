@@ -1,7 +1,16 @@
-# Hi, I'm Vishal :wave:
+![Header GIF](assets/GitHub-Banner.gif)
 
-# 💫 About Me:
-<img src="./1680956357745.jpg" styles="width:600px">
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Vishalk91-4&&style=flat-square" align="center" />
+&nbsp;
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DVishalk91-4&longCache=true" align="center" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Vishalk91-4?label=Stars" alt="stars" align="center">
+</div>
+
+## 💫 About Me:
 <🤝🏻Hello Everyone><br>#📛I'm Vishal#<br>@🎓Sophomore at IIT (BHU) Varanasi<br>/* 📔I am currently working on Different Productivity <br>and Research Based Websites */<br>[{( 🗃️Ask me About Maths and Computation )}]<br>!! 🥇I like to be the Best in What I do !!<br>
 
 <table align="right">
@@ -16,21 +25,6 @@
 [siggraph]: https://siggraph.org
 [taperk]: https://taperk.com
 [roclab]: https://roclab.io
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
-
-
-
-<p align="center">
-  <a href="https://stars.github.com/profiles/Vishalk91-4/">
-    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
-</p>
-
 
 
 ## 🌐 Socials:
@@ -87,40 +81,24 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 
 <p align="center">
     <b>Looking for a software engineering intern?
-        <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
+        <a href="https://www.linkedin.com/in/vishal-k-2865b6254">Let's connect and talk!</a>
     </b>
 </p>
 
 ---
 
-<!--<a href="https://novakcgx.me">
-    <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
-</a>-->
-
-<a href="mailto:duongnguyen18@siggraph.org">
+<a href="mailto:korada.vishal.phe22@itbhu.ac.in">
     <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/zach-nguyen">
+<a href="https://www.linkedin.com/in/vishal-k-2865b6254">
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
-<a href="https://paypal.me/dnguy38">
+<a href="https://paypal.me/vishalk914">
     <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
 </a>
 
-<a href="https://www.buymeacoffee.com/cszach">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
-</a>
-
-<a href="https://liberapay.com/cszach">
-    <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
-</a>
-
-<a href="https://www.instagram.com/thechonkypenguin">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
-</a>
-
-<a href="https://dribbble.com/cszach">
+<a href="https://dribbble.com/vishalk91-4">
     <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
 </a>
