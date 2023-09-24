@@ -79,6 +79,12 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 
 <!--START_SECTION:activity-->
 
+
+
+
+<!--END_SECTION:activity-->
+
+
 <p align="center">
     <b>Looking for a software engineering intern?
         <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
