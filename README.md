@@ -27,10 +27,10 @@
 
 <br/>
 <table align="right">
- <tr><td><a href="README.md"><img src="img/icons/en-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="img/icons/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="img/icons/pt-flag.png" height="13"> Português</a></td></tr>
-  <tr><td><a href="README_es.md"><img src="img/icons/es-flag.png" height="13"> Español</a></td></tr>
+ <tr><td><a href="README.md"><img src="assets/img/icons/en-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="assets/img/icons/fr-flag.png" height="13"> Français</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="assets/img/icons/pt-flag.png" height="13"> Português</a></td></tr>
+  <tr><td><a href="README_es.md"><img src="assets/img/icons/es-flag.png" height="13"> Español</a></td></tr>
 
 </table>
 
@@ -71,7 +71,6 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Vishal K's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Vishalk91-4&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vishalk91-4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -81,17 +80,8 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-
-
-
-<!--END_SECTION:activity-->
+## Recent Activity :zap:
 
 
 <p align="center">
@@ -103,17 +93,17 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 ---
 
 <a href="mailto:korada.vishal.phe22@itbhu.ac.in">
-    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+    <img height="32" align="left" alt="Mail" src="assets/img/icons/gmail.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/vishal-k-2865b6254">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+    <img height="32" align="left" alt="LinkedIn" src="assets/img/icons/linkedin.png" />
 </a>
 
 <a href="https://paypal.me/vishalk914">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
+    <img height="32" align="left" alt="Buy Me a Coffee" src="assets/img/icons/paypal.png" />
 </a>
 
 <a href="https://dribbble.com/vishalk91-4">
-    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
+    <img height="32" align="left" alt="Dribbble" src="assets/img/icons/dribbble.png" />
 </a>
