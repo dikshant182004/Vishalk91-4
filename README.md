@@ -83,6 +83,7 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 
 ## Recent Activity :zap:
 
+<!--START_SECTION:activity-->
 
 <p align="center">
     <b>Looking for a software engineering intern?
