@@ -27,10 +27,10 @@
 
 <br/>
 <table align="right">
- <tr><td><a href="README.md"><img src="images/en-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/pt-flag.png" height="13"> Português</a></td></tr>
-  <tr><td><a href="README_es.md"><img src="images/es-flag.png" height="13"> Español</a></td></tr>
+ <tr><td><a href="README.md"><img src="img/icons/en-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="img/icons/fr-flag.png" height="13"> Français</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="img/icons/pt-flag.png" height="13"> Português</a></td></tr>
+  <tr><td><a href="README_es.md"><img src="img/icons/es-flag.png" height="13"> Español</a></td></tr>
 
 </table>
 
