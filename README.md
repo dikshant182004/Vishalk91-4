@@ -81,9 +81,13 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## Recent Activity :zap:
+## Recent Activity
 
-<!--START_SECTION:activity-->
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 <p align="center">
     <b>Looking for a software engineering intern?
