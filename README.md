@@ -23,7 +23,7 @@
 
 - 📫 Reach me at korada.vishal.phe22@itbhu.ac.in 
 
-- ⚡ Fun fact: I like watching Tennis, #FedererForever.😚
+- ⚡ Fun fact: I like watching Tennis #FedererForever and solving different types of Rubix Cube.
 
 <br/>
 <table align="right">
