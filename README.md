@@ -66,6 +66,8 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vishalk91-4&theme=shades-of-purple&hide_border=false)<br/>
 
+[![Vishalk91-4's GitHub | Languages Over Time](https://stats.quine.sh/Vishalk91-4/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Vishalk91-4)
+
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Vishal K's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Vishalk91-4&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
