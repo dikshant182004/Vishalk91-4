@@ -43,9 +43,9 @@
 
 # 💻 Tech Stack:
 
-_Favorite programming language: Rust :crab:._  
+_Favorite programming language: Astro :rocket:._  
 _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
-:skateboard: skateboarding, :computer_mouse: interactive experiences._
+:ice_cube: rubix cube, :computer_mouse: interactive experiences._
 
 <p align="center">
 <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
