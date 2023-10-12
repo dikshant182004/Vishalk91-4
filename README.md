@@ -13,17 +13,17 @@
 ## 💫 About Me:
 ### <div align="center">I'm Vishal, a student, and developer from India. </div>
 
-- 🧑🏻‍🎓I am undergraduate student at the Indian Institute of Technology BHU (Varanasi) pursuing a Integrated Dual Degree in my second year.
+- 🧑🏻‍🎓I am undergraduate student at the `Indian Institute of Technology BHU (Varanasi)` pursuing a Integrated Dual Degree in my second year.
 
-- ☸️ I have a keen interest in Open Source and Web Development.
+- ☸️ I have a keen interest in `Open Source` and `Web Development`.
 
-- 🔭 I’m currently learning Astro and Golang.
+- 🔭 I’m currently learning `Astro` and `Golang`.
 
-- 🍀 Ask me about anything related to MEVN stack and related technologies.
+- 🍀 Ask me about anything related to `MEVN stack` and related technologies.
 
 - 📫 Reach me at korada.vishal.phe22@itbhu.ac.in 
 
-- ⚡ Fun fact: I like watching Tennis #FedererForever and solving different types of Rubix Cube.
+- ⚡ Fun fact: I like watching Tennis `#FedererForever` and solving different types of Rubix Cube.
 
 <br/>
 <table align="right">
