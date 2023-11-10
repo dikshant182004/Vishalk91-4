@@ -36,8 +36,9 @@
 
 ## My Badges:
 [![An image of @vishalk914's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalk914)](https://holopin.io/@vishalk914)
-<img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="google-developer-badge" style="height:200px"/>
-<img src="https://kubecampus.io/wp-content/uploads/2021/07/KubeCampus_Explorer_SMALL_Badge.svg" alt="kubernetes" style="height:200px"/>
+<img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="google-developer-badge" style="height:150px"/>
+<img src="https://kubecampus.io/wp-content/uploads/2021/07/KubeCampus_Explorer_SMALL_Badge.svg" alt="kubernetes" style="height:150px"/>
+<img src="https://developers.google.com/static/profile/badges/activity/cloud/activate-cloud-shell/badge.svg" alt="kubernetes" style="height:150px"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishalk_iitbhu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-k-2865b6254) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@vishalkiitbhu) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Vishalk) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20806754) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VishalK2267) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Vishalk2267) 
