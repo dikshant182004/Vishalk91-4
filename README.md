@@ -78,8 +78,6 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-[![](https://visitcount.itsvg.in/api?id=Vishalk91-4&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <img src="https://myreadme.vercel.app/api/embed/Vishalk91-4?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 [![Vishalk91-4's GitHub | Dependencies](https://stats.quine.sh/Vishalk91-4/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Vishalk91-4)
