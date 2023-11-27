@@ -2,7 +2,7 @@ name: GitHub - Activity - Readme
 
 on:
   schedule:
-    - cron: "0 21 * * *"
+  - cron: "0 21 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: DenverCoderOne/github-activity-readme@commit-username-and-email
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - uses: actions/checkout@v2
+    - uses: DenverCoderOne/github-activity-readme@commit-username-and-email
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
