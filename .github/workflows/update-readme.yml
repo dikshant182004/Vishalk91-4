@@ -1,16 +1,19 @@
-name: GitHub - Activity - Readme
-
+name: Calendar Metrics
 on:
   schedule:
-  - cron: "0 21 * * *"
-  workflow_dispatch:
+    - cron: '*/5 * * * *'
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
 
+  full_year_calendar:
+    name: Full-year calendar
+    runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: DenverCoderOne/github-activity-readme@commit-username-and-email
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: env.METRICS_TOKEN
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
