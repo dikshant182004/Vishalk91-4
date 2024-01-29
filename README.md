@@ -25,6 +25,8 @@
 
 - ⚡ Fun fact: I like watching Tennis `#FedererForever` and solving different types of Rubix Cube.
 
+![Metrics](/github-metrics.svg)
+
 <br/>
 <table align="right">
  <tr><td><a href="README.md"><img src="assets/img/icons/en-flag.png" height="13"> English</a></td></tr>
