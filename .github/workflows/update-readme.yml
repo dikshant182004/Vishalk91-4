@@ -1,11 +1,11 @@
 name: Calendar Metrics
 on:
-  schedule:
-    - cron: '*/5 * * * *'
+ schedule:
+    - cron: '0 * * * *'
 
 jobs:
 
-  full_year_calendar:
+ full_year_calendar:
     name: Full-year calendar
     runs-on: ubuntu-latest
     steps:
